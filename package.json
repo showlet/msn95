@@ -1,0 +1,23 @@
+{
+  "name": "msn-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/showlet/msn-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/showlet/msn-cli/issues"
+  },
+  "homepage": "https://github.com/showlet/msn-cli#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "superagent": "^3.8.3"
+  }
+}
