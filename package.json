@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/showlet/msn-cli#readme",
   "dependencies": {
+    "cfonts": "^2.2.1",
+    "chalk": "^2.4.1",
     "express": "^4.16.3",
     "superagent": "^3.8.3"
   }
